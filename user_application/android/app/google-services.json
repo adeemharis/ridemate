@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "279891993500",
+    "firebase_url": "https://ridemate1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ridemate1",
+    "storage_bucket": "ridemate1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279891993500:android:0366d7ffbb27f813fa1e59",
+        "android_client_info": {
+          "package_name": "com.uda.udaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc6DYGt38uwuzWCQwJdpkdLh-kgq-W3do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

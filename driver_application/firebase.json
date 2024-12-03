@@ -1,0 +1,35 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ridemate1",
+          "appId": "1:279891993500:android:1c358f30c88f3aeefa1e59",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ridemate1",
+          "configurations": {
+            "android": "1:279891993500:android:0366d7ffbb27f813fa1e59",
+            "ios": "1:279891993500:ios:6b3530dd121a448bfa1e59"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
